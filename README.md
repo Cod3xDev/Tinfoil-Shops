@@ -1,21 +1,5 @@
 # Tinfoil Shop Repository
 
-<style>
-  @keyframes rainbow {
-    0% { color: #ff0000; }
-    16.66% { color: #ff9900; }
-    33.33% { color: #ffff00; }
-    50% { color: #33cc33; }
-    66.66% { color: #3399ff; }
-    83.33% { color: #9900cc; }
-    100% { color: #ff0000; }
-  }
-
-  h1 {
-    animation: rainbow 5s infinite;
-  }
-</style>
-
 ## Overview
 
 Welcome to the Tinfoil Shop Repository, a curated collection of links to various Tinfoil shops. This GitHub page serves as a reference point for individuals interested in accessing specific Tinfoil shop services. It is important to approach the content with a clear understanding of the potential legal implications and adhere to ethical considerations.
